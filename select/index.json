@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Neustart",
+  "base_artist": "カトリナ・グリーベル (CV.天城サリー)",
+  "createdAt": "2026-01-14T08:09:00.805055Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Neustart für den Sommer",
+      "artist": "Saltatio Mortis",
+      "has_synced": true,
+      "path": "select/01_Neustart_für_den_Sommer_Saltatio_Mortis.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Neustart für den Sommer",
+      "artist": "Saltatio Mortis",
+      "has_synced": true,
+      "path": "select/02_Neustart_für_den_Sommer_Saltatio_Mortis.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Neustart",
+      "artist": "Nevada Tan",
+      "has_synced": true,
+      "path": "select/03_Neustart_Nevada_Tan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Neustart (Live @ Hurricane Festival)",
+      "artist": "Joris",
+      "has_synced": false,
+      "path": "select/04_Neustart_(Live_@_Hurricane_Festival)_Joris.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Neustart",
+      "artist": "Joris",
+      "has_synced": true,
+      "path": "select/05_Neustart_Joris.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Neustart",
+      "artist": "Söhne Mannheims",
+      "has_synced": false,
+      "path": "select/06_Neustart_Söhne_Mannheims.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Neustart (live @ Bauhaus)",
+      "artist": "Joris",
+      "has_synced": false,
+      "path": "select/07_Neustart_(live_@_Bauhaus)_Joris.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Neustart - Live @ Bauhaus",
+      "artist": "JORIS",
+      "has_synced": false,
+      "path": "select/08_Neustart_-_Live_@_Bauhaus_JORIS.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Neustart",
+      "artist": "Rowli",
+      "has_synced": true,
+      "path": "select/09_Neustart_Rowli.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Neustart",
+      "artist": "nevada tan",
+      "has_synced": false,
+      "path": "select/10_Neustart_nevada_tan.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Neustart",
+      "artist": "Nevada Tan",
+      "has_synced": true,
+      "path": "select/11_Neustart_Nevada_Tan.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Neustart für den Sommer",
+      "artist": "Saltatio Mortis",
+      "has_synced": true,
+      "path": "select/12_Neustart_für_den_Sommer_Saltatio_Mortis.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Neustart",
+      "artist": "カトリナ・グリーベル(CV.天城サリー)",
+      "has_synced": true,
+      "path": "select/13_Neustart_カトリナ・グリーベル(CV.天城サリー).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Neustart",
+      "artist": "カトリナ・グリーベル (CV.天城サリー)",
+      "has_synced": false,
+      "path": "select/pl_01_Neustart_カトリナ・グリーベル_(CV.天城サリー).txt"
+    }
+  ]
+}
